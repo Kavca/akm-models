@@ -14,7 +14,7 @@ Click on the links below to open the models:
 
 <code>(Right-click and "Open Link in new window" to start modelling in a new window)</code>
 
-- [ISPIM-Workshop-Demo_Project](https://akmmclient-main-52oi93wic-snorres.vercel.app/project?org=Kavca&repo=kavca-akm-models&path=models&file=ISPIM-Workshop-Demo_Project.json&branch=main)
+- [ISPIM-Workshop-Demo_Project](https://akmmclient-beta.vercel.app/modelling?focus=Kavca&repo=kavca-akm-models&path=models&file=ISPIM-Workshop-Demo_Project.json&branch=main)
 
 ## Naming Conventions
 
